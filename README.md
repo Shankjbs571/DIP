@@ -34,9 +34,24 @@ The result is a colorful plot made of squares. It looks like the original image 
 </td>
     </tr>
     <tr>
-        <td><img src="path_to_image1.jpg" alt="Image 1" style="width: 150px; height: 150px;"></td>
-        <td><img src="path_to_image2.jpg" alt="Image 2" style="width: 150px; height: 150px;"></td>
-        <td><img src="path_to_image3.jpg" alt="Image 3" style="width: 150px; height: 150px;"></td>
+        <td>
+            <table>
+                <tr>
+                    <td style="text-align: center;">
+                        <h4>Original Image</h4>
+                        <img src="/result_images/original_image.png" alt="Image 1" style="width: 300px;">
+                    </td>
+                    <td style="text-align: center;">
+                        <h4>Matrix to BGR</h4>
+                        <img src="/result_images/matrix_to_bgr.png" alt="Image 2" style="width: 300px;">
+                    </td>
+                    <td style="text-align: center;">
+                        <h4>Matrix Plot RGB</h4>
+                        <img src="/result_images/matrix_plot_rgb.png" alt="Image 3" style="width: 300px;">
+                    </td>
+                </tr>
+            </table>
+        </td>
     </tr>
 </table>
 
