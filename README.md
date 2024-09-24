@@ -29,7 +29,7 @@ This script takes an image and turns it into a grid of small squares that repres
 4. **Plot with Matplotlib**: The script uses Matplotlib to create a plot where each square is filled with the corresponding pixel color.
 
 # What You See
-The result is a colorful plot made of squares. It looks like the original image but is actually just a collection of squares representing the pixels.
+The result "Matrix Plot RGB" is a colorful plot made of squares. It looks like the original image but is actually just a collection of squares representing the pixels.
 </td>
     </tr>
     <tr>
