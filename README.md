@@ -1,7 +1,6 @@
 # Digital Image Processing
 
 ## Overview
-This repository contains Python scripts focused on digital image processing.  
 Each script aims to explore different aspects of image manipulation, analysis, and visualization. The goal is to implement intuitive and practical code for working with images, making it easier to understand and apply various digital image processing techniques.
 
 ### Future Additions
